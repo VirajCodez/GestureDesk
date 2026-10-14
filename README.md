@@ -24,7 +24,7 @@ The application uses Python, OpenCV, and MediaPipe for hand tracking and gesture
 | Peace sign | Toggle Apple Music play/pause once per gesture |
 | Thumbs up | Play the next Apple Music track |
 | Thumbs down | Play the previous Apple Music track |
-| Fist | Unassigned; no system action |
+| Fist | No system action |
 
 ### Additional Controls
 
